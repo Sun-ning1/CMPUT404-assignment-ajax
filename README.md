@@ -12,4 +12,6 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+reference：https://www.w3schools.com/colors/colors_picker.asp
+
 
